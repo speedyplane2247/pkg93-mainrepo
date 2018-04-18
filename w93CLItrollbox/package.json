@@ -1,0 +1,5 @@
+{
+  "name": "w93CLItrollbox",
+  "inject": "index.js",
+  "uninstall": "uninstall.js"
+}
