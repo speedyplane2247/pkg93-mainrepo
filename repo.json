@@ -9,7 +9,12 @@
     "feh",
     "w93CLItrollbox"
   ],
-  "sha256s": [
-  "exampleSHA"
-  ]
+  {
+"wget93": "sha256",
+  "helloworld": "708f1a2a02ae1e6e7a3023fa0f732fe4976f803ea825482c10930f8aa82b90d6",
+  "coloursplash93": "b1ac32b2235f0b78c107dc5636fa496a2f0bfd58cce1f7b020098b1146892561",
+  "gs45": "076a95c0f570d8ff9743ed731cfbb78d82577c2d8353837fc89569f1c6df548b",
+  "feh": "605b098e28e2d6f854762fecfc2c5ef2b6522ebdd1a318337bea2370fcc5123d",
+  "w93CLItrollbox": "48c7a42eea97fc8f4a3034b819bafe2aecfe86c64e9740aae9a6691ed2332ee0"
+}
 }
